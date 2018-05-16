@@ -20,7 +20,7 @@ namespace WindowsFormsApp2
         private void button1_Click(object sender, EventArgs e)
         {
             string a = myBox.Text;
-            MessageBox.Show("Hello, " + a);
+            MessageBox.Show("Hello, " + a + "\nWelcome to this test program!");
         }
     }
 }
